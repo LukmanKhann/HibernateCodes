@@ -1,0 +1,13 @@
+package org.jsp.Assignment;
+
+import java.util.Scanner;
+
+public class FetchStudentByBatchId_qry {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter Batch id to fetch the student details");
+		int id = sc.nextInt();
+		String qry = "select b."
+	}
+
+}

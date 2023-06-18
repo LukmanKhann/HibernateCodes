@@ -1,0 +1,6 @@
+package org.jsp.cachedemo.dto;
+
+@Entity  
+public class Person {
+
+}

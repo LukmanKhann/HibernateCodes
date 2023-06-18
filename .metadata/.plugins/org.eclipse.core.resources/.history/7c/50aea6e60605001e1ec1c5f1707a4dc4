@@ -1,0 +1,5 @@
+package org.jsp.compositekey.dto;
+
+public class User {
+
+}

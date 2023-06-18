@@ -1,0 +1,8 @@
+package org.jsp.cachedemo.dto;
+
+
+
+public class Person {
+	private int
+
+}

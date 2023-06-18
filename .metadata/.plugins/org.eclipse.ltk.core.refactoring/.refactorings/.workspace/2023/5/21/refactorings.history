@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;one_to_one&apos; to &apos;one-to-one-Unidirectional&apos;" description="Rename resource &apos;one_to_one&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/one_to_one" name="one-to-one-Unidirectional" stamp="1684757573905" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;one-to-may-Unidirectional&apos; to &apos;many-to-one-Unidirectional&apos;" description="Rename resource &apos;one-to-may-Unidirectional&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/one-to-may-Unidirectional" name="many-to-one-Unidirectional" stamp="1685202352554" updateReferences="true"/>
+</session>
